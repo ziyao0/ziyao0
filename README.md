@@ -3,7 +3,7 @@
 - 😄 I'm currently learning:
   - [x] Java/Spring
   - [x] Spring Cloud
-  - [x] Redis/MQ（rocketMQ/Kafka）/ZK
+  - [x] Redis/MQ(rocketMQ/Kafka)/zookeeper
   - [x] Microservice full link monitoring
   - [x] Docker/kubernetes
   - [x] Netty
