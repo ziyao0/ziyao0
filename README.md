@@ -12,7 +12,7 @@
   - [ ] Python
   - [ ] Vue
       
-- 📫 你可以通过邮箱联系我 **mail**(1337891505@qq.com).
+- 📫 你可以通过邮箱联系我(1337891505@qq.com).
 
 
 [![ziyao0's github stats](https://github-readme-stats.vercel.app/api?username=ziyao0&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
