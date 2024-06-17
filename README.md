@@ -12,5 +12,6 @@
       
 - 📫 You can contact me via **mail**(1337891505@qq.com).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyao0&layout=compact)
+
 [![ziyao0's github stats](https://github-readme-stats.vercel.app/api?username=ziyao0&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyao0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
